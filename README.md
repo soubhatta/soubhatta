@@ -1,6 +1,6 @@
 ### Hello👋I am Soumalya,an ECE Final Year Grad
 
-![](https://raw.githubusercontent.com/soubhatta/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ![](https://raw.githubusercontent.com/soubhatta/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <!--
 **soubhatta/soubhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
