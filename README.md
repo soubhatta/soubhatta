@@ -1,7 +1,7 @@
 ### Hello👋I am Soumalya,an ECE Final Year Grad
 
 
-![](https://raw.githubusercontent.com/soubhatta/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 **soubhatta/soubhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://raw.githubusercontent.com/soubhatta/github-stats/master/generated/overview.svg#gh-light-mode-only)
