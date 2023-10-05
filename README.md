@@ -31,6 +31,27 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+<h3>GitHub Stats</h3>
+
+[![GitHub followers](https://img.shields.io/github/followers/debamitr1012.svg?style=social&label=Follow)](https://github.com/debamitr1012?tab=followers) <a href="https://github.com/debamitr1012/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=debamitr1012"></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&theme=apprentice)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&theme=apprentice&layout=compact) |
+| --- | --- | --- |
+
+| [![Debayudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| --- |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice) |
+
+| <img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"> 
+| --- |
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> |
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
