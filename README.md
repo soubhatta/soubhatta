@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 | --- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=apprentice) |
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/soubhatta/soubhatta/blob/master/marquee.svg" /> |
 
 
 
