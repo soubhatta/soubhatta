@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 | --- | --- | --- |
 
 | [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=dracula)](https://github.com/soubhatta/github-readme-activity-graph)
-| --- |
+| ---- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=apprentice) |
 
 
