@@ -38,17 +38,12 @@ Here are some ideas to get you started:
 
 </div><br>
 
-## 🏆Trophies
+## 🏆Github Trophies
 
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=soubhatta&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
+![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/soubhatta.svg?style=social&label=Follow)](https://github.com/soubhatta?tab=followers) <a href="https://github.com/soubhatta/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=soubhatta"></a>
 
 | [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=dracula)](https://github.com/soubhatta/github-readme-activity-graph)
 | --- |
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
