@@ -118,6 +118,26 @@ Here are some ideas to get you started:
     </td></tr>
 </table>
 
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soubhatta&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soubhatta&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=false">
+
+</div><br>
+
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=soubhatta&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
 ## GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/soubhatta.svg?style=social&label=Follow)](https://github.com/soubhatta?tab=followers) <a href="https://github.com/soubhatta/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=soubhatta"></a>
