@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=radical&hide_border=false">
-<img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img height="152em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=radical&hide_border=false">
+<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8&hide_border=false">
