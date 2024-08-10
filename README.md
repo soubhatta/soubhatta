@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/soubhatta.svg?style=social&label=Follow)](https://github.com/soubhatta?tab=followers) <a href="https://github.com/soubhatta/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=soubhatta"></a>
 
-| [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=dracula)](https://github.com/soubhatta/github-readme-activity-graph)
+[![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=dracula)](https://github.com/soubhatta/github-readme-activity-graph)
