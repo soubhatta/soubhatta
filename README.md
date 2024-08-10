@@ -29,14 +29,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img height="178em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=radical&hide_border=false">
-<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=radical&hide_border=false">
+<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8&hide_border=false">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=false">
-
-
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=dark&hide_border=true">
 
 
 
