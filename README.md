@@ -23,14 +23,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/soucharya90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soucharya90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumalya-bhattacharyya-b09671228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumalya-bhattacharyya-b09671228/" height="30" width="40" /></a>
-<a href="https://fb.com/soucharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soucharya" height="30" width="40" /></a>
-<a href="https://instagram.com/mallya_is_mallya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mallya_is_mallya" height="30" width="40" /></a>
-<a href="https://discord.gg/soubhatta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soubhatta19" height="30" width="40" /></a>
-</p>
 
 ## 📊 GitHub Stats:
 
