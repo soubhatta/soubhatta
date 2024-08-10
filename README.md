@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soubhatta&theme=radical">
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soubhatta&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8">
@@ -142,15 +142,9 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/soubhatta.svg?style=social&label=Follow)](https://github.com/soubhatta?tab=followers) <a href="https://github.com/soubhatta/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=soubhatta"></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soubhatta&theme=apprentice&no-frame=true&column=-1" alt="soubhatta" /></a> </p>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&locale=en&theme=apprentice" alt="soubhatta" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soubhatta&theme=apprentice)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soubhatta&theme=apprentice&layout=compact) |
-| --- | --- | --- |
-
 | [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=dracula)](https://github.com/soubhatta/github-readme-activity-graph)
 | --- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soubhatta&theme=apprentice) |
-
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
