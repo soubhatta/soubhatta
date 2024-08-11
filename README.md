@@ -56,8 +56,8 @@
 
 | Role               | Organisation                                        | Time Period        | Type       |
 | ------------------ | --------------------------------------------------- | ------------------ | ---------- |
-| Assistant System Engineer   | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time  |
-| DevSecOps Engineer | [PepHub](https://www.linkedin.com/company/pephub)   | Jun 2023 - Present | Internship |
+| Assistant System Engineer   | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/) | Sep 2024 - Present | Full Time  |
+| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)   | Aug 2024 - Sep 2024 | Internship |
 
 </div>
 
