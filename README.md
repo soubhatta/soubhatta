@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6" />
-  <img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" />
 </div>
 
 
