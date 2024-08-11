@@ -71,11 +71,15 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
 
-![](https://raw.githubusercontent.com/soubhatta/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/soubhatta/cf-stats/main/output/light_card.svg)
-
-![](https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/rating.svg)
+<a href="https://github.com/soumalyabhatta19/cf-stats">
+<img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/light_card.svg" />
+</a>
+<br/>
+<a href="https://github.com/soumalyabhatta19/cf-stats">
+<img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/rating.svg" />
+</a>
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
