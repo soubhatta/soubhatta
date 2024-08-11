@@ -71,12 +71,14 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
 
-<a href="https://github.com/soumalyabhatta19/cf-stats">
+<a href="https://github.com/soubhatta/cf-stats">
 <img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/light_card.svg" />
 </a>
+
 <br/>
-<a href="https://github.com/soumalyabhatta19/cf-stats">
+
+<a href="https://github.com/soubhatta/cf-stats">
 <img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/max_rating.svg" />
 <img src="https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/rating.svg" />
 </a>
