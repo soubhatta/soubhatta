@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 💼 Personal Projects:
 
-<p align="center">
+<div align="center">
   
 | Project Name | Description |
 |--------------|-------------|
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource and Guidance Hub for the Preparation Stratgies of Upcoming NEET UG Aspirants |
 | [Zendukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing and Features Comparison among E Commerce Sites |
 
-</p>
+</div><be>
 
 <p align="center">
   <a href="https://skillicons.dev">
