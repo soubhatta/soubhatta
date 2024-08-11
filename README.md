@@ -59,7 +59,7 @@
 |  Assistant System Engineer  | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/) | Sep 2024 - Present  | Full Time  |
 | Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Part Time  |
 |   Java Technology Intern    | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                     | Mar 2024 - Jun 2024 | Part Time  |
-|    Data Analytics Intern    | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                 | Feb 2024 - Apr 2024 | Internship |
+| <h1 align=center>Data Analytics Intern</h1>    | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                 | Feb 2024 - Apr 2024 | Internship |
 | Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
 | Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
 | Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
