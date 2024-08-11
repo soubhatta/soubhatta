@@ -34,19 +34,11 @@
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8&hide_border=false">
 <img height="173em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&theme=radical&hide_border=true&include_all_commits=false&count_private=false">
+<img height="173em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&card_width=320_private=false">
 <img height="173em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=true">
 
 </div><br>
 
- <div align="center">
-   <a href="https://github.com/soubhatta">
-   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
-   </a>
-   <a href="https://github.com/soubhatta">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=soubhatta&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="soubhatta" width=49% height=100%/>
-   <br/>
-   </a>
-</div>
 
 ## 🏆Github Trophies:
 
