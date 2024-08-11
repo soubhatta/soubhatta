@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/soubhatta/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/soubhatta/cf-stats/main/output/light_card.svg)
 
+![](https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/soumalyabhatta19/cf-stats/main/output/rating.svg)
+
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
 [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=false)](https://github.com/soubhatta/github-readme-activity-graph)
