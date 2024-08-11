@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |--------------|-------------|
 | [Remisense](https://xyz.vercel.app/) | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform |
 | [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
-| [Solefolio](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all of Personal Career Credentials and the Developments | 
+| [Solefolio](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource and Guidance Hub for the Preparation Stratgies of Upcoming NEET UG Aspirants |
 | [Zendukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing and Features Comparison among E Commerce Sites |
 
