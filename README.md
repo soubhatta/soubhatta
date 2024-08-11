@@ -1,9 +1,4 @@
-### Hello👋I am Soumalya,an ECE Final Year Grad
-
-
-
-
-**soubhatta/soubhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image](https://github.com/user-attachments/assets/7f706972-1946-4dc5-a530-7fe6ea295cc8)
 
 Here are some ideas to get you started:
 
