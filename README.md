@@ -51,11 +51,6 @@
 </p>
 
 
-<p><h2 style="text-decoration: none; cursor: none;"> 💻 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
-
-<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
-
-
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
 [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=false)](https://github.com/soubhatta/github-readme-activity-graph)
