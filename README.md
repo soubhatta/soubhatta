@@ -1,7 +1,7 @@
 ![GITHUB HEADER](https://github.com/user-attachments/assets/c425b1c6-eac3-4534-ad87-9af540cd1371)
 
 
-<h1 align=center>💼 Personal Projects:</h1>
+<h1 align=center>💼 Personal Projects</h1>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 </div><be>
 
-<h1 align=center>⚙ Tech Stacks:</h1>
+<h1 align=center>⚙ Tech Stacks</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 </p>
 
 
-<h1 align=center>📊 GitHub Stats:</h1>
+<h1 align=center>📊 GitHub Stats</h1>
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div><br>
 
-<h1 align=center>🏆Github Trophies:</h1>
+<h1 align=center>🏆Github Trophies</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -50,7 +50,7 @@
 
 </p>
 
-<h1 align=center>📒Experience:</h1>
+
 
 <div align=center>
 
@@ -61,7 +61,7 @@
 
 </div>
 
-<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+<h1 align=center>📈 Github Activity Graph</h1>
 
 [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=false)](https://github.com/soubhatta/github-readme-activity-graph)
 
