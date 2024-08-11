@@ -54,10 +54,10 @@
 
 <div align=center>
 
-| Role               | Organisation                                        | Time Period        | Type       |
-| ------------------ | --------------------------------------------------- | ------------------ | ---------- |
-| Assistant System Engineer   | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/) | Sep 2024 - Present | Full Time  |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)   | Aug 2024 - Sep 2024 | Internship |
+|            Role             |                                          Organisation                                            |    Time Duration    |    Type    |
+| --------------------------- | -----------------------------------------------------------------------------------------------  | ------------------- | ---------- |
+| Assistant System Engineer   | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/) | Sep 2024 - Present  | Full Time  |
+| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
 
 </div>
 
