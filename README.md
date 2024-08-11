@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## 💼 Personal Projects:
 
+<p align="center">
+  
 | Project Name | Description |
 |--------------|-------------|
 | [Remisense.ai](https://xyz.vercel.app/) | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform |
@@ -26,6 +28,8 @@ Here are some ideas to get you started:
 | [Solefolio.me](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all the Personal Career Credentials | 
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource and Guidance Hub for the Preparation Stratgies of Upcoming NEET UG Aspirants |
 | [Zendukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing and Features Comparison among E Commerce Sites |
+
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
