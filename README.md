@@ -66,6 +66,13 @@ Here are some ideas to get you started:
 
 </p>
 
+## 💻LeetCode Stats :
+
+<div align="center">
+
+<a href="https://leetcode.com/soucharya19/"><img src="https://leetcard.jacoblin.cool/soucharya19?ext=contest">
+
+</div>
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
