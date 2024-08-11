@@ -71,6 +71,12 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
 
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
