@@ -57,7 +57,12 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/soubhatta.svg?style=social&label=Follow)](https://github.com/soubhatta?tab=followers) <a href="https://github.com/soubhatta/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=soubhatta"></a>
+![ ](https://komarev.com/ghpvc/?username=soubhatta&color=blue)
+</a>
+<a href="https://github.com/soubhatta?tab=followers"><img src="https://img.shields.io/github/followers/soubhatta?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href ="https://metrics.lecoq.io/insights/soubhatta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
+
+</p>
 
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
