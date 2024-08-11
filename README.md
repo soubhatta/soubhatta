@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <img height="173em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=true">
 
 </div><br>
-
 ## 🏆Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
