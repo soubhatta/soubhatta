@@ -11,7 +11,7 @@
 | [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
 | [Solefolio](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants |
-| [Zendukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing & Features Comparison of the Commodities among E-Commerce Sites |
+| [ZenDukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing & Features Comparison of the Commodities among E-Commerce Sites |
 
 </div><be>
 
