@@ -51,7 +51,7 @@
 </p>
 
  <img align="right" src="./profile-3d-contrib/profile-night-rainbow.svg" alt = "stats" /></p>
- [![Shinjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinjan-saha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&theme=react-dark)](https://github.com/soubhatta/github-readme-activity-graph)
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
