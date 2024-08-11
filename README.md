@@ -38,6 +38,16 @@
 
 </div><br>
 
+ <div align="center">
+   <a href="https://github.com/soubhatta">
+   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
+   </a>
+   <a href="https://github.com/soubhatta">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=soubhatta&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="soubhatta" width=49% height=100%/>
+   <br/>
+   </a>
+</div>
+
 ## 🏆Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -49,7 +59,6 @@
 <a href ="https://metrics.lecoq.io/insights/soubhatta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
 
 </p>
-
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
