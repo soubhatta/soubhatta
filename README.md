@@ -1,7 +1,7 @@
 ![GITHUB HEADER](https://github.com/user-attachments/assets/c425b1c6-eac3-4534-ad87-9af540cd1371)
 
 
-<h1 align=center>💼Personal Projects:</h1>
+<h1 align=center>💼 Personal Projects:</h1>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 </div><be>
 
-## ⚙ Tech Stacks:
+<h1 align=center>⚙ Tech Stacks:</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 </p>
 
 
-## 📊 GitHub Stats:
+<h1 align=center>📊 GitHub Stats:</h1>
 
 <div align="center">
 
@@ -38,8 +38,7 @@
 
 </div><br>
 
-
-## 🏆Github Trophies:
+<h1 align=center>🏆Github Trophies:</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -51,7 +50,7 @@
 
 </p>
 
-## 📒Experience:
+<h1 align=center>📒Experience:</h1>
 
 <div align=center>
 
