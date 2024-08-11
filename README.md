@@ -51,6 +51,15 @@
 
 </p>
 
+<div align=center>
+
+| Role               | Organisation                                        | Time Period        | Type       |
+| ------------------ | --------------------------------------------------- | ------------------ | ---------- |
+| Engineering Lead   | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time  |
+| DevSecOps Engineer | [PepHub](https://www.linkedin.com/company/pephub)   | Jun 2023 - Present | Internship |
+
+</div>
+
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
 [![Soumalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soubhatta&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=false)](https://github.com/soubhatta/github-readme-activity-graph)
