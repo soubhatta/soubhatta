@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/bc7eda1c-d0c8-40fc-a7d7-f63bebfc7450)
+![GITHUB HEADER](https://github.com/user-attachments/assets/c425b1c6-eac3-4534-ad87-9af540cd1371)
+
 
 Here are some ideas to get you started:
 
