@@ -71,6 +71,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/soubhatta/profile-activity-generator/master/demo.png" style="max-width: 100%;">
+<br/>
+<br/>
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
