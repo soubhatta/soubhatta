@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 |--------------|-------------|
 | [Remisense.ai](https://xyz.vercel.app/) | Multi-Disease AI Based Prognosis Webapp with Personalized Telecare Assistance Platform |
 | [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates  |
-| [Solefolio](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all the Personal Career Credentials | 
+| [Solefolio.me](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all the Personal Career Credentials | 
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource and Guidance Hub for the Preparation Stratgies of Upcoming NEET UG Aspirants |
-| [Dukanbazaar](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing and Features Comparison among E Commerce Sites |
+| [Zendukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing and Features Comparison among E Commerce Sites |
 
 <p align="center">
   <a href="https://skillicons.dev">
