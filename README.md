@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 | Project Name | Description |
 |--------------|-------------|
-| [Remisense.ai](https://xyz.vercel.app/) | Multiple Disease AI Based Prognosis Webapp with Personalized Telemedicine Support and Medcical Assistance Platform |
+| [Remisense.ai](https://xyz.vercel.app/) | Multiple Disease AI Based Prognosis Webapp with Personalized Telemedicine Support & Medical Assistance Platform |
 | [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates  |
 | [Solefolio.me](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all the Personal Career Credentials | 
 | [NovaNEET](https://xyz.vercel.app/) | Total Resource and Guidance Hub for the Preparation Stratgies of Upcoming NEET UG Aspirants |
