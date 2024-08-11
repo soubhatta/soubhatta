@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p><h2 style="text-decoration: none; cursor: none;"> 💻 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
 
-<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Subhadeep3902?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
+<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/soucharya19?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
 
 </div>
 
