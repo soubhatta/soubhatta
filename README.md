@@ -54,28 +54,36 @@
 
 <div align=center>
 
-|            Role             |                                          Organisation                                            |    Time Duration    |    Type    |
-| --------------------------- | -----------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-|  Assistant System Engineer  | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/) | Sep 2024 - Present  | Full Time  |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Part Time  |
-|   Java Technology Intern    | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                     | Mar 2024 - Jun 2024 | Part Time  |
-|   Data Analytics Intern     | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                 | Feb 2024 - Apr 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
-| Software Development Intern | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                         | Aug 2024 - Sep 2024 | Internship |
+|              Role                |                                          Organisation                                            |    Time Duration    |    Type    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
+|  Assistant System Engineer       | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/)      | Sep 2024 - Present  | Full Time  |
+|   Software Development Intern    | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Sep 2024 | Part Time  |
+|      Java Technology Intern      | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
+|        Data Analyst Intern       | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                      | Feb 2024 - Apr 2024 | Internship |
+|      Data Engineering Intern     | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | Aug 2024 - Sep 2024 | Internship |
+|    Full Stack Developer Intern   | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Aug 2024 - Sep 2024 | Internship |
+|    Software Development Intern   | [Curious Technologies](https://www.linkedin.com/company/thecuriousorganization/)                      | Aug 2024 - Sep 2024 | Internship |
+|     Front End Developer Intern   | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Aug 2024 - Sep 2024 | Internship |
+|     Front End Developer Intern   | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Aug 2024 - Sep 2024 | Internship |
+|        Data Analyst Intern       | [Vodafone Idea Foundation](https://www.linkedin.com/company/vodafone-idea-foundation/)                | Aug 2024 - Sep 2024 | Internship |
+|     Google AIML Virtual Intern   | [Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                         | Aug 2024 - Sep 2024 | Internship |
+|      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Internship |
+|       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Internship |
+|       Data Science Intern        | [Capabl Technologies](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                    | Aug 2024 - Sep 2024 | Internship |
+|  Virtual Launchpad Program 2024  | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Aug 2024 - Sep 2024 | Internship |
+|       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
+|     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Aug 2024 - Sep 2024 | Internship |
+|  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | Aug 2024 - Sep 2024 | Internship |
+|       Data Analyst Intern        | [Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-techonologies/)                     | Aug 2024 - Sep 2024 | Internship |
+| Front End Web Development Intern | [Veritech Software Services](https://www.linkedin.com/company/veritech-software-it-services-pvt-ltd/) | Aug 2024 - Sep 2024 | Internship |
+|   Embedded System Design Intern  | [Pantech Solutions](https://www.linkedin.com/company/pantechai/)                                      | Aug 2024 - Sep 2024 | Internship |
+|       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Aug 2024 - Sep 2024 | Internship |
+|     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
+|      Machine Learning Intern     | [Prodigy Infotech](https://www.linkedin.com/company/prodigy-infotech/)                                | Aug 2024 - Sep 2024 | Internship |
+|      C++ Development Intern      | [Codsoft Technologies](https://www.linkedin.com/company/codsoft/)                                     | Aug 2024 - Sep 2024 | Internship |
+|    Full Stack Developer Intern   | [Alhansat Solutions](https://www.linkedin.com/company/alhansat/)                                      | Aug 2024 - Sep 2024 | Internship |
+| Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/bluestock-fintech/)                               | Aug 2024 - Sep 2024 | Internship |
+|   Full Stack Developer Intern    | [Physicswallah](https://www.linkedin.com/company/physicswallah/)                                      | Aug 2024 - Sep 2024 | Internship |
 
 
 </div>
