@@ -69,7 +69,7 @@
 |     Google AIML Virtual Intern   | [Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                         | Aug 2024 - Sep 2024 | Internship |
 |      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Internship |
 |       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Internship |
-|       Data Science Intern        | [Capabl Technologies](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                    | Aug 2024 - Sep 2024 | Internship |
+|       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Internship |
 |  Virtual Launchpad Program 2024  | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Aug 2024 - Sep 2024 | Internship |
 |       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
 |     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Aug 2024 - Sep 2024 | Internship |
@@ -80,10 +80,33 @@
 |       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Aug 2024 - Sep 2024 | Internship |
 |     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
 |      Machine Learning Intern     | [Prodigy Infotech](https://www.linkedin.com/company/prodigy-infotech/)                                | Aug 2024 - Sep 2024 | Internship |
-|      C++ Development Intern      | [Codsoft Technologies](https://www.linkedin.com/company/codsoft/)                                     | Aug 2024 - Sep 2024 | Internship |
+|      C++ Development Intern      | [Codsoft Pvt Ltd](https://www.linkedin.com/company/codsoft/)                                          | Aug 2024 - Sep 2024 | Internship |
 |    Full Stack Developer Intern   | [Alhansat Solutions](https://www.linkedin.com/company/alhansat/)                                      | Aug 2024 - Sep 2024 | Internship |
 | Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/bluestock-fintech/)                               | Aug 2024 - Sep 2024 | Internship |
 |   Full Stack Developer Intern    | [Physicswallah](https://www.linkedin.com/company/physicswallah/)                                      | Aug 2024 - Sep 2024 | Internship |
+|       Java Developer Intern      | [Codeway Solutions](https://www.linkedin.com/company/physicswallah/)                                  | Aug 2024 - Sep 2024 | Internship |
+|       Java Developer Intern      | [Codespeedy Technologies](https://www.linkedin.com/company/physicswallah/)                            | Aug 2024 - Sep 2024 | Internship |
+|       Java Developer Intern      | [Codeclause Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                                 | Aug 2024 - Sep 2024 | Internship |
+|      Python Developer Intern     | [Alfido Technologies](https://www.linkedin.com/company/physicswallah/)                                | Aug 2024 - Sep 2024 | Internship |
+|        Data Analyst Intern       | [Meriskill Academy](https://www.linkedin.com/company/physicswallah/)                                  | Aug 2024 - Sep 2024 | Internship |
+|   Data Analyst Associate Intern  | [Excelerate Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                                 | Aug 2024 - Sep 2024 | Internship |
+|  Artificial Intelligence Intern  | [Cognorise Infotech](https://www.linkedin.com/company/physicswallah/)                                 | Aug 2024 - Sep 2024 | Internship |
+|      Machine Learning Intern     | [Feynn Labs](https://www.linkedin.com/company/physicswallah/)                                         | Aug 2024 - Sep 2024 | Internship |
+|  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/physicswallah/)                                      | Aug 2024 - Sep 2024 | Internship |
+|     Power BI Developer Intern    | [Psyliq Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                                     | Aug 2024 - Sep 2024 | Internship |
+|          AI and ML Intern        | [YBI Foundation](https://www.linkedin.com/company/physicswallah/)                                     | Aug 2024 - Sep 2024 | Internship |
+|        Data Analyst Intern       | [Cloud Counselage](https://www.linkedin.com/company/physicswallah/)                                   | Aug 2024 - Sep 2024 | Internship |
+|   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/physicswallah/)                                   | Aug 2024 - Sep 2024 | Internship |
+|   Full Stack Developer Intern    | [Innovixion Tech](https://www.linkedin.com/company/physicswallah/)                                    | Aug 2024 - Sep 2024 | Internship |
+|  Artificial Intelligence Intern  | [Scale it More](https://www.linkedin.com/company/physicswallah/)                                      | Aug 2024 - Sep 2024 | Internship |
+|   Android App Developer Intern   | [Encryptrix](https://www.linkedin.com/company/physicswallah/)                                         | Aug 2024 - Sep 2024 | Internship |
+|  Mobile App Development Intern   | [Zidio Technologies](https://www.linkedin.com/company/physicswallah/)                                 | Aug 2024 - Sep 2024 | Internship |
+|  Full Stack Development Intern   | [Extion Infotech](https://www.linkedin.com/company/physicswallah/)                                    | Aug 2024 - Sep 2024 | Internship |
+|   Full Stack Developer Intern    | [Innobyte Services](https://www.linkedin.com/company/physicswallah/)                                  | Aug 2024 - Sep 2024 | Internship |
+|    Python Development Intern     | [CodesOnBytes](https://www.linkedin.com/company/physicswallah/)                                       | Aug 2024 - Sep 2024 | Internship |
+|    Front End Developer Intern    | [Turing Technologies](https://www.linkedin.com/company/physicswallah/)                                | Aug 2024 - Sep 2024 | Internship |
+|  AI and Cloud Developer Intern   | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/physicswallah/)                | Aug 2024 - Sep 2024 | Internship |
+|      Java Developer Intern       | [Oasis Infobyte](https://www.linkedin.com/company/physicswallah/)                                     | Aug 2024 - Sep 2024 | Internship |
 
 
 </div>
