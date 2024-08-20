@@ -65,7 +65,7 @@
 
 </div>
 
-<h1 align=center>📒 Experiences and Internships</h1>
+<h1 align=center></h1>
 
 <div align=center>
 
