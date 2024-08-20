@@ -92,17 +92,17 @@
 
 <div align=center>
 
-|              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |  
-|      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Internship |
-|       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Internship |
-|       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Internship |
-|   Embedded System Design Intern  | [Pantech Solutions](https://www.linkedin.com/company/pantechai/)                                      | Aug 2024 - Sep 2024 | Internship |
-| Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/kodnestoffice/)                                   | Aug 2024 - Sep 2024 | Internship |
-|   Data Analyst Associate Intern  | [Excelerate Pvt Ltd](https://www.linkedin.com/company/4excelerate/)                                   | Aug 2024 - Sep 2024 | Internship |
-|      Machine Learning Intern     | [Feynn Labs](https://www.linkedin.com/company/feynn-labs/)                                            | Aug 2024 - Sep 2024 | Internship |
-|  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Internship |
-|   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Internship |
+|              Role                |                                          Organisation                                                 |    Time Duration    |      Type      |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | -------------- |  
+|      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Apprenticeship |
+|       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Apprenticeship |
+|       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Apprenticeship |
+|   Embedded System Design Intern  | [Pantech Solutions](https://www.linkedin.com/company/pantechai/)                                      | Aug 2024 - Sep 2024 | Apprenticeship |
+| Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/kodnestoffice/)                                   | Aug 2024 - Sep 2024 | Apprenticeship |
+|   Data Analyst Associate Intern  | [Excelerate Pvt Ltd](https://www.linkedin.com/company/4excelerate/)                                   | Aug 2024 - Sep 2024 | Apprenticeship |
+|      Machine Learning Intern     | [Feynn Labs](https://www.linkedin.com/company/feynn-labs/)                                            | Aug 2024 - Sep 2024 | Apprenticeship |
+|  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Apprenticeship |
+|   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Apprenticeship |
 
 </div>
 
