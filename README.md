@@ -86,7 +86,13 @@
 |        Data Analyst Intern       | [Cloud Counselage](https://www.linkedin.com/company/cloud-counselage/)                                | Aug 2024 - Sep 2024 | Internship |
 
 </div>
-  
+
+<h1 align=center></h1>
+
+<div align=center>
+
+|              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |  
 |      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Internship |
 |       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Internship |
 |       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Internship |
@@ -98,8 +104,13 @@
 |  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Internship |
 |   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Internship |
 
+</div>
 
-  
+<h1 align=center></h1>
+
+<div align=center>
+|              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |    
 |       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
 | Front End Web Development Intern | [Veritech Software Services](https://www.linkedin.com/company/veritech-software-it-services-pvt-ltd/) | Aug 2024 - Sep 2024 | Internship |
 |     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
