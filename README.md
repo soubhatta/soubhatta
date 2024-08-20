@@ -63,7 +63,9 @@
 |      Data Engineering Intern     | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | Aug 2024 - Sep 2024 | Internship |
 |    Full Stack Developer Intern   | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Aug 2024 - Sep 2024 | Internship |
 
+</div>
 
+|
 |        Data Analyst Intern       | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                      | Feb 2024 - Apr 2024 | Internship |
 |     Front End Developer Intern   | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Aug 2024 - Sep 2024 | Internship |
 |       AI-ML Developer Intern     | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Aug 2024 - Sep 2024 | Internship |
@@ -78,7 +80,9 @@
 |   Full Stack Developer Intern    | [Physicswallah](https://www.linkedin.com/company/physicswallah/)                                      | Aug 2024 - Sep 2024 | Internship |
 |        Data Analyst Intern       | [Cloud Counselage](https://www.linkedin.com/company/cloud-counselage/)                                | Aug 2024 - Sep 2024 | Internship |
 
+</div>
 
+|
 |      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Internship |
 |       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Internship |
 |       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Internship |
@@ -90,6 +94,9 @@
 |  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Internship |
 |   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Internship |
 
+</div>
+
+|
 |       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
 | Front End Web Development Intern | [Veritech Software Services](https://www.linkedin.com/company/veritech-software-it-services-pvt-ltd/) | Aug 2024 - Sep 2024 | Internship |
 |     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
@@ -101,8 +108,6 @@
 |   Full Stack Developer Intern    | [Innovixion Tech](https://www.linkedin.com/company/innovixion-tech/)                                  | Aug 2024 - Sep 2024 | Internship |
 |   Android App Developer Intern   | [Encryptrix](https://www.linkedin.com/company/encryptixofficial/)                                     | Aug 2024 - Sep 2024 | Internship |
 |    Front End Developer Intern    | [Turing Technologies](https://www.linkedin.com/company/turing-technologie/)                           | Aug 2024 - Sep 2024 | Internship |
-
-
 
 </div>
 
