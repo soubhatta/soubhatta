@@ -60,7 +60,7 @@
 |             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Part Time  |
 |               Java Technology Intern              | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
-|           Virtual Launchpad Program 2024          | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Apr 2023 - Sep 2023 | Internship |
+|  Cloud & Data Analytics Virtual Launchpad Program | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Apr 2023 - Sep 2023 | Internship |
 |              Data Engineering Intern              | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | May 2023 - Jul 2023 | Internship |
 |     Artificial Intteligence Virtual Experience    | [Cognizant Solutions](https://www.linkedin.com/company/cognizant/)                                    | Jun 2023 - Jul 2023 | Internship |
 | Data Analytics & Visualisation Virtual Experience | [Accenture India](https://www.linkedin.com/company/physicswallah/)                                    | Jun 2023 - Jul 2023 | Internship |
