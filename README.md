@@ -27,11 +27,11 @@
 
 <div align="center">
   
-|               Institute               | University |   Degree   | Specialization |     Grade    |
-|---------------------------------------|------------|------------|----------------|--------------|
-|         Techno Main Saltlake          |   MAKAUT   |    BTech   |      ECE       |  CGPA = 9.03 |
-| The Scottish Church Collegiate School |   WBCHSE   | 12th Board |    Science     | % age = 92.4 |
-| The Scottish Church Collegiate School |   WBBSE    | 10th Board |    Science     | % age = 93.3 |
+|               Institute               | University |   Degree   | Specialization |     Grade    |    Distinction    |
+|---------------------------------------|------------|------------|----------------|--------------|-------------------|
+|         Techno Main Saltlake          |   MAKAUT   |    BTech   |      ECE       |  CGPA = 9.03 | 12th Rank in Dept |
+| The Scottish Church Collegiate School |   WBCHSE   | 12th Board |    Science     | % age = 92.4 |   1st in School   |
+| The Scottish Church Collegiate School |   WBBSE    | 10th Board |    Science     | % age = 93.3 |   1st in School   |
 
 </div>
 
