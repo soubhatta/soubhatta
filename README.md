@@ -82,7 +82,6 @@
 |     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Aug 2024 - Sep 2024 | Internship |
 |  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | Aug 2024 - Sep 2024 | Internship |
 |       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Aug 2024 - Sep 2024 | Internship |
-|        Data Analyst Intern       | [Cloud Counselage](https://www.linkedin.com/company/cloud-counselage/)                                | Aug 2024 - Sep 2024 | Internship |
 
 </div>
 
@@ -98,7 +97,6 @@
 |   Embedded System Design Intern  | [Pantech Solutions](https://www.linkedin.com/company/pantechai/)                                      | Aug 2024 - Sep 2024 | Internship |
 | Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/kodnestoffice/)                                   | Aug 2024 - Sep 2024 | Internship |
 |   Data Analyst Associate Intern  | [Excelerate Pvt Ltd](https://www.linkedin.com/company/4excelerate/)                                   | Aug 2024 - Sep 2024 | Internship |
-|    Full Stack Developer Intern   | [Alhansat Solutions](https://www.linkedin.com/company/alhansat/)                                      | Aug 2024 - Sep 2024 | Internship |
 |      Machine Learning Intern     | [Feynn Labs](https://www.linkedin.com/company/feynn-labs/)                                            | Aug 2024 - Sep 2024 | Internship |
 |  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Internship |
 |   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Internship |
@@ -117,7 +115,7 @@
 |       Java Developer Intern      | [Codeway Solutions](https://www.linkedin.com/company/codeway-solutions/)                              | Aug 2024 - Sep 2024 | Internship |
 |  Artificial Intelligence Intern  | [Cognorise Infotech](https://www.linkedin.com/company/cognoriseinfotech/)                             | Aug 2024 - Sep 2024 | Internship |
 |     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
-|    Front End Developer Intern    | [Turing Technologies](https://www.linkedin.com/company/turing-technologie/)                           | Aug 2024 - Sep 2024 | Internship |
+
 
 </div>
 
