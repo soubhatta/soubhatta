@@ -5,13 +5,13 @@
 
 <div align="center">
   
-| Project Name | Description |
-|--------------|-------------|
-| [Remisense](https://xyz.vercel.app/) | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform |
+|             Project Name               |                                              Description                                                     |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Remisense](https://xyz.vercel.app/)   | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform  |
 | [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
-| [Solefolio](https://xyz.vercel.app/) | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
-| [NovaNeet](https://xyz.vercel.app/) | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants |
-| [JanDukaan](https://xyz.vercel.app/) | Easy and User friendly Webapp for Pricing & Features Comparison of the Commodities among E-Commerce Sites |
+| [Solefolio](https://xyz.vercel.app/)   | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
+| [NovaNeet](https://xyz.vercel.app/)    | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants  |
+| [JanDukaan](https://xyz.vercel.app/)   | Easy and User friendly Webapp for Pricing & Features Comparison of the Commodities among E-Commerce Sites    |
 
 </div><be>
 
@@ -22,6 +22,20 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,bootstrap,react,tailwind,nextjs,nodejs,express,mongodb,flask,postgres" />
   </a>
 </p>
+
+<h1 align=center>💼 Education</h1>
+
+<div align="center">
+  
+|               Institute               | University |   Degree   | Specialization |     Grade    |
+|---------------------------------------|------------|------------|----------------|--------------|
+|         Techno Main Saltlake          |   MAKAUT   |    BTech   |      ECE       |  CGPA = 9.03 |
+| The Scottish Church Collegiate School |   WBCHSE   | 12th Board |    Science     | % age = 92.4 |
+| The Scottish Church Collegiate School |   WBBSE    | 10th Board |    Science     | % age = 93.3 |
+
+</div>
+
+
 
 
 <h1 align=center>📊 GitHub Stats</h1>
