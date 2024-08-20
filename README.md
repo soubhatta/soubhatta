@@ -114,7 +114,7 @@
 |       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
 | Front End Web Development Intern | [Veritech Software Services](https://www.linkedin.com/company/veritech-software-it-services-pvt-ltd/) | Aug 2024 - Sep 2024 | Internship |
 |      Machine Learning Intern     | [Prodigy Infotech](https://www.linkedin.com/company/prodigy-infotech/)                                | Aug 2024 - Sep 2024 | Internship |
-|       Java Developer Intern      | [Codeway Solutions](https://www.linkedin.com/company/codeway-solutions/)                              | Aug 2024 - Sep 2024 | Internship |
+|      Java Development Intern     | [Codeway Solutions](https://www.linkedin.com/company/codeway-solutions/)                              | Aug 2024 - Sep 2024 | Internship |
 |  Artificial Intelligence Intern  | [Cognorise Infotech](https://www.linkedin.com/company/cognoriseinfotech/)                             | Aug 2024 - Sep 2024 | Internship |
 |     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
 
