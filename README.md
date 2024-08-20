@@ -74,16 +74,16 @@
 
 |              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |  
+|   Generative AI Virtual Intern   | [Google India - Smart Internz](https://www.linkedin.com/company/smartinternz/)                        | Aug 2024 - Sep 2024 | Internship |
+|  Embedded System Virtual Intern  | [Microchip - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)             | Jul 2024 - Sep 2024 | Internship |
+|    Front End Developer Intern    | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Jun 2024 - Jul 2024 | Internship |
+|       AI-ML Developer Intern     | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Jun 2024 - Jul 2024 | Internship |
+|       AI-ML Virtual Intern       | [Google - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                | Apr 2024 - Jun 2024 | Internship |
 |        Data Analyst Intern       | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                      | Feb 2024 - Apr 2024 | Internship |
-|       AI-ML Developer Intern     | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Aug 2024 - Sep 2024 | Internship |
-|        Data Analyst Intern       | [Vodafone Idea Foundation](https://www.linkedin.com/company/vodafone-idea-foundation/)                | Aug 2024 - Sep 2024 | Internship |
-|       AI-ML Virtual Intern       | [Google - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                | Aug 2024 - Sep 2024 | Internship |
-|   Generative AI Virtual Intern   | [Google - Smart Internz](https://www.linkedin.com/company/smartinternz/)                              | Aug 2024 - Sep 2024 | Internship |
-|  Embedded System Virtual Intern  | [Microchip - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)             | Aug 2024 - Sep 2024 | Internship |
-|    Front End Developer Intern    | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Aug 2024 - Sep 2024 | Internship |
-|     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Aug 2024 - Sep 2024 | Internship |
-|  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | Aug 2024 - Sep 2024 | Internship |
-|       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Aug 2024 - Sep 2024 | Internship |
+|        Data Analyst Intern       | [Vodafone Idea Foundation](https://www.linkedin.com/company/vodafone-idea-foundation/)                | Feb 2024 - Mar 2024 | Internship |
+|  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | May 2023 - Jul 2023 | Internship |
+|     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Oct 2023 - Nov 2023 | Internship |
+|       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Sep 2023 - Oct 2023 | Internship |
 
 </div>
 
