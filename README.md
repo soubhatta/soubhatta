@@ -56,16 +56,15 @@
 
 |                        Role                       |                                          Organisation                                                 |    Time Duration    |    Type    |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-|              Assistant System Engineer            | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/)      | Sep 2024 - Present  | Full Time  |
-|             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Sep 2024 | Part Time  |
+|              Assistant System Engineer            | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/)      | Nov 2024 - Present  | Full Time  |
+|             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Part Time  |
 |               Java Technology Intern              | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
-|           Virtual Launchpad Program 2024          | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Aug 2024 - Sep 2024 | Internship |
-|              Data Engineering Intern              | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | Aug 2024 - Sep 2024 | Internship |
-|            Full Stack Developer Intern            | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Aug 2024 - Sep 2024 | Internship |
-|            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Aug 2024 - Sep 2024 | Internship |
-|     Artificial Intteligence Virtual Experience    | [Cognizant](https://www.linkedin.com/company/cognizant/)                                              | Aug 2024 - Sep 2024 | Internship |
-|            PowerBI Virtual Experience             | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Aug 2024 - Sep 2024 | Internship |
-| Data Analytics & Visualisation Virtual Experience | [Accenture](https://www.linkedin.com/company/physicswallah/)                                          | Aug 2024 - Sep 2024 | Internship |
+|            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
+|           Virtual Launchpad Program 2024          | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Apr 2023 - Sep 2023 | Internship |
+|              Data Engineering Intern              | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | May 2023 - Jul 2023 | Internship |
+|     Artificial Intteligence Virtual Experience    | [Cognizant Solutions](https://www.linkedin.com/company/cognizant/)                                    | Jun 2023 - Jul 2023 | Internship |
+| Data Analytics & Visualisation Virtual Experience | [Accenture India](https://www.linkedin.com/company/physicswallah/)                                    | Jun 2023 - Jul 2023 | Internship |
+|            Full Stack Developer Intern            | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Jan 2023 - May 2023 | Internship |
 
 </div>
 
