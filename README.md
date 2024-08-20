@@ -56,7 +56,7 @@
 
 |                        Role                       |                                          Organisation                                                 |    Time Duration    |    Type    |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-|              Assistant System Engineer            | [Tata Consultancy Services Limited](https://www.linkedin.com/company/tata-consultancy-services/)      | Nov 2024 - Present  | Full Time  |
+|              Assistant System Engineer            | [Tata Consultancy Services](https://www.linkedin.com/company/tata-consultancy-services/)              | Nov 2024 - Present  | Full Time  |
 |             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Part Time  |
 |               Java Technology Intern              | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
@@ -105,7 +105,7 @@
 
 </div>
 
-<h1 align=center>📒 Internships from Small Scaled Startups</h1>
+<h1 align=center>📒 Internships from Small Scale Startups</h1>
 
 <div align=center>
   
