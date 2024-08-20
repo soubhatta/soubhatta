@@ -63,8 +63,8 @@
 |              Data Engineering Intern              | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | Aug 2024 - Sep 2024 | Internship |
 |            Full Stack Developer Intern            | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Aug 2024 - Sep 2024 | Internship |
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Aug 2024 - Sep 2024 | Internship |
-|     Artificial Intteligence Virtual Experience    | [Cognizant](https://www.linkedin.com/company/physicswallah/)                                          | Aug 2024 - Sep 2024 | Internship |
-|            PowerBI Virtual Experience             | [PricewaterhouseCoopers](https://www.linkedin.com/company/physicswallah/)                             | Aug 2024 - Sep 2024 | Internship |
+|     Artificial Intteligence Virtual Experience    | [Cognizant](https://www.linkedin.com/company/cognizant/)                                              | Aug 2024 - Sep 2024 | Internship |
+|            PowerBI Virtual Experience             | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Aug 2024 - Sep 2024 | Internship |
 | Data Analytics & Visualisation Virtual Experience | [Accenture](https://www.linkedin.com/company/physicswallah/)                                          | Aug 2024 - Sep 2024 | Internship |
 
 </div>
