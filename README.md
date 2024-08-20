@@ -109,6 +109,7 @@
 <h1 align=center></h1>
 
 <div align=center>
+  
 |              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |    
 |       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
