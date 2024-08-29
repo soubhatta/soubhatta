@@ -70,7 +70,6 @@
 
 |                        Role                       |                                          Organisation                                                 |    Time Duration    |    Type    |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-|              Assistant System Engineer            | [Tata Consultancy Services](https://www.linkedin.com/company/tata-consultancy-services/)              | Nov 2024 - Present  | Full Time  |
 |             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Part Time  |
 |               Java Technology Intern              | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
@@ -101,39 +100,7 @@
 
 </div>
 
-<h1 align=center>📒 Apprenticeships from Startups</h1>
 
-<div align=center>
-
-|              Role                |                                          Organisation                                                 |    Time Duration    |      Type      |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | -------------- |  
-|      Python Developer Intern     | [Uniconverge Technologies](https://www.linkedin.com/company/uniconvergetechnologies/)                 | Aug 2024 - Sep 2024 | Apprenticeship |
-|       Web Development Intern     | [PHN Technologies](https://www.linkedin.com/company/phn-technology/)                                  | Aug 2024 - Sep 2024 | Apprenticeship |
-|       Data Science Intern        | [Capabl India Ltd](https://www.linkedin.com/school/cabapl-elite-techno-groups/)                       | Aug 2024 - Sep 2024 | Apprenticeship |
-|   Embedded System Design Intern  | [Pantech Solutions](https://www.linkedin.com/company/pantechai/)                                      | Aug 2024 - Sep 2024 | Apprenticeship |
-| Java Full Stack Developer Intern | [Kodnest Services](https://www.linkedin.com/company/kodnestoffice/)                                   | Aug 2024 - Sep 2024 | Apprenticeship |
-|   Data Analyst Associate Intern  | [Excelerate Pvt Ltd](https://www.linkedin.com/company/4excelerate/)                                   | Aug 2024 - Sep 2024 | Apprenticeship |
-|      Machine Learning Intern     | [Feynn Labs](https://www.linkedin.com/company/feynn-labs/)                                            | Aug 2024 - Sep 2024 | Apprenticeship |
-|  Artificial Intelligence Intern  | [Pinnacle Labs](https://www.linkedin.com/company/pinnaclelabs/)                                       | Aug 2024 - Sep 2024 | Apprenticeship |
-|   MERN Stack Developer Intern    | [Webstack Academy](https://www.linkedin.com/company/webstackacademyit/)                               | Aug 2024 - Sep 2024 | Apprenticeship |
-
-</div>
-
-<h1 align=center>📒 Internships from Small Scale Startups</h1>
-
-<div align=center>
-  
-|              Role                |                                          Organisation                                                 |    Time Duration    |    Type    |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |    
-|       Data Science Intern        | [Asterisc Technocrat](https://www.linkedin.com/company/asterisc-technocrat/)                          | Aug 2024 - Sep 2024 | Internship |
-| Front End Web Development Intern | [Veritech Software Services](https://www.linkedin.com/company/veritech-software-it-services-pvt-ltd/) | Aug 2024 - Sep 2024 | Internship |
-|      Machine Learning Intern     | [Prodigy Infotech](https://www.linkedin.com/company/prodigy-infotech/)                                | Aug 2024 - Sep 2024 | Internship |
-|      Java Development Intern     | [Codeway Solutions](https://www.linkedin.com/company/codeway-solutions/)                              | Aug 2024 - Sep 2024 | Internship |
-|  Artificial Intelligence Intern  | [Cognorise Infotech](https://www.linkedin.com/company/cognoriseinfotech/)                             | Aug 2024 - Sep 2024 | Internship |
-|     Front End Developer Intern   | [Octanet Software Services](https://www.linkedin.com/company/octanetservices/)                        | Aug 2024 - Sep 2024 | Internship |
-
-
-</div>
 
 <h1 align=center>📈 Github Activity Graph</h1>
 
