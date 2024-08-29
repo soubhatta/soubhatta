@@ -75,7 +75,7 @@
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
 |  Cloud & Data Analytics Virtual Launchpad Program | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Apr 2023 - Sep 2023 | Internship |
 |              Data Engineering Intern              | [Celebal Technologies](https://www.linkedin.com/company/celebaltechnologies/)                         | May 2023 - Jul 2023 | Internship |
-|     Artificial Intteligence Virtual Experience    | [Cognizant Solutions](https://www.linkedin.com/company/cognizant/)                                    | Jun 2023 - Jul 2023 | Internship |
+|     Artificial Intelligence Virtual Experience    | [Cognizant Solutions](https://www.linkedin.com/company/cognizant/)                                    | Jun 2023 - Jul 2023 | Internship |
 | Data Analytics & Visualisation Virtual Experience | [Accenture India](https://www.linkedin.com/company/physicswallah/)                                    | Jun 2023 - Jul 2023 | Internship |
 |            Full Stack Developer Intern            | [Appsynergies](https://www.linkedin.com/company/appsynergies/)                                        | Jan 2023 - May 2023 | Internship |
 
