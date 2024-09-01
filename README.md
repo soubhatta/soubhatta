@@ -80,19 +80,19 @@
       <td valign="top">
         <h1 align=center>📄 Certificates</h1>
         <ul>
-         	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Github Foundations Professional Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Microsoft Azure AI900 Fundamentals Certificate</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys Java Language Foundation Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Coursera Introduction to Front End Development</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">IBM Data Analysis using Python Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Postman API Fundamentals Student Expert Course</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Freecodecamp Machine Learning using Python</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank Javascript Basic Skills Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Linkedin Learning MERN Essential Training Course</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys Artificial Intelligence Primer Certification</li>
-		<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Matlab Object Oriented Programming Onramp</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank Software Engineer Skills Certification</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Udemy Complete Data Structures Course in Java</li>
+         	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Github</a> Foundations Professional Certification</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Microsoft</a> Azure AI900 Fundamentals Certificate</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys</a> Java Language Foundation Certification</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Coursera</a> Introduction to Front End Development</li>
+          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">IBM</a> Data Analysis using Python Certification</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Postman</a> API Fundamentals Student Expert Course</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Freecodecamp</a> Machine Learning using Python</li>
+          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank</a> Javascript Basic Skills Certification</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Linkedin</a> Learning MERN Essential Training Course</li>
+          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys</a> Artificial Intelligence Primer Certification</li>
+		<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Matlab</a> Object Oriented Programming Onramp</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank</a> Software Engineer Skills Certification</li>
+          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Udemy</a> Complete Data Structures Course in Java</li>
         </ul>
       </td>
     </tr>
