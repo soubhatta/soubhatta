@@ -112,15 +112,15 @@
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
-		<td><strong>Developer Tools and Platforms</strong></td>
+		<td><strong>Developer Software Tools and Platforms</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height=38>  <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img             src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
 		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
 	</tr>
 	<tr>
-		<td><strong>Cloud Services and Databases</strong></td>
-		<td><strong>Designing and Editing</strong></td>
+		<td><strong>Cloud Services and Databases Systems</strong></td>
+		<td><strong>Designing and Editing(UI UX & Graphics)</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py" height=38></td>
