@@ -96,7 +96,7 @@
   </table>
 </div>
 
-<hr>
+
 <h1 align=center>💻 Tech Stacks</h1>
 <table>
 	<tr>
@@ -133,7 +133,7 @@
 	<tr>
 </table>
 
-<hr>
+
 
 <h1 align=center>📊 GitHub Stats</h1>
 
