@@ -103,15 +103,15 @@
 <h1 align=center>💻 Tech Stacks</h1>
 <table>
 	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><strong>Coursework Subjects</strong></td>
+		<td><strong>Programming Languages & Technologies</strong></td>
+		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
 	</tr>
 	<tr>
-		<td><strong>Frameworks and Libraries(Front End + Back End + AIML</strong></td>
+		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
 		<td><strong>Developer Tools and Platforms</strong></td>
 	</tr>
 	<tr>
