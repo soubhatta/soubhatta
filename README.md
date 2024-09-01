@@ -56,6 +56,93 @@
 
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>🏆 Achievements:</h3>
+        <ul>
+          <li>🏆 Team Lead, Winning Team at SIH 2023</li>
+          <li>🥇 National Winner at CodeRush 2023, HackBrewer 2023</li>
+          <li>🥈 Top 10 at SRM MozoHacks</li>
+          <li>🥇 Best Open Innovation at DUHacks</li>
+          <li>🥉 3rd place at Jadavpur University Convolution 7.0</li>
+          <li>📄 Published Research Papers in IJSRED and IEMTRONICS</li>
+          <li>💼 Ex ObjectSol Technologies</li>
+          <li>🌐 Research Associate at IIC</li>
+          <li>💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
+          <li>🌟 Web Developer Intern at Karmactive India</li>
+          <li>🚀 Summer Intern at Timechain Labs</li>
+          <li>🌀 Appwrite Octernship</li>
+          <li>🎉 Hacktoberfest 2022, 2023 Participant</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <h3>📄 Certificates:</h3>
+        <ul>
+          <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AritraGhosh-0972/CA51A0C89FF22698?sharingId">Microsoft Azure (AZ-900)</a></li>
+	        <li><a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a></li>
+	        <li><a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a></li>
+	        <li><a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a></li>
+          <li><a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a></li>
+	        <li><a href="https://coursera.org/share/f9df23083a7f403fb41dc77a35c93333">IBM AI Engineering Professional Certificate</a></li>
+	        <li><a href="https://coursera.org/share/08aea7d22112d805da1ac39cf3bf3d80">Generative AI)</a> (University of Colorado)</li>
+          <li><a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Cybersecurity for Everyone</a> (University of Maryland)</li>
+          <li><a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<hr>
+
+<h3>Tech Stack:</h3>
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><strong>Coursework Subjects</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
+	</tr>
+	<tr>
+		<td><strong>Frameworks and Libraries</strong></td>
+		<td><strong>Developer Tools and Platforms</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height=38>  <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img             src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
+	</tr>
+	<tr>
+		<td><strong>Cloud Services and Databases</strong></td>
+		<td><strong>Designing and Editing</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
+	</tr>
+  <td><strong>Programming Languages</strong></td>
+		<td><strong>Coursework Subjects</strong></td>
+	</tr>
+	<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
+	</tr>
+	<tr>
+</table>
+
+
+
+<hr>
+
+
+
+
 
 
 
