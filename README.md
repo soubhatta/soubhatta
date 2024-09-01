@@ -1,3 +1,33 @@
+<h1 align="center"> Hi, I'm Soumalya 👋  </h1> 
+
+---
+<h1 align="center"> About Me </h1>
+
+<table width="100%">
+<tr>
+<td>
+<ul>
+<li>👨‍💻 I am currently studying B.Tech in ECE at Techno Main Saltlake,Kolkata,West Bengal.</li>
+<li>📚 Every day I keep learning about different technologies.</li>
+<li>👯 Interested in Full Stack Web Development, Machine Learning and Artificial Intelligence.</li>
+<li>✨ Currently Learning Machine Learning and Python.</li>
+<li>🌱 Experimenting with Generative AI Technologies.</li>
+<li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
+<li>⚡ I love listening to Music and click exciting Photographs 🎼 📖.</li>
+</ul>
+</td>
+<td>
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
+
 ![GITHUB HEADER](https://github.com/user-attachments/assets/c425b1c6-eac3-4534-ad87-9af540cd1371)
 
 
