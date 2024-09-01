@@ -100,7 +100,7 @@
 </div>
 
 
-<h1 align=center>💻 Tech Stacks</h1>
+<h1 align=center>💻 Technical Stacks</h1>
 <table>
 	<tr>
 		<td><strong>Programming Languages & Technologies</strong></td>
@@ -126,7 +126,7 @@
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
 	</tr>
- 		<td><strong>Professional and Soft Skills</strong></td>
+ 		<td><strong>Professional and Interpersonal Skills</strong></td>
 		<td><strong>Hardware Components and Devices</strong></td>
 	</tr>
 	<tr>
