@@ -62,19 +62,19 @@
       <td valign="top">
         <h1 align=center>🏆 Achievements</h1>
         <ul>
-          <li>🏆 Team Lead, Winning Team at SIH 2023</li>
-          <li>🥇 National Winner at CodeRush 2023, HackBrewer 2023</li>
-          <li>🥈 Top 10 at SRM MozoHacks</li>
-          <li>🥇 Best Open Innovation at DUHacks</li>
-          <li>🥉 3rd place at Jadavpur University Convolution 7.0</li>
-          <li>📄 Published Research Papers in IJSRED and IEMTRONICS</li>
-          <li>💼 Ex ObjectSol Technologies</li>
-          <li>🌐 Research Associate at IIC</li>
-          <li>💻 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
-          <li>🌟 Web Developer Intern at Karmactive India</li>
-          <li>🚀 Summer Intern at Timechain Labs</li>
-          <li>🌀 Appwrite Octernship</li>
-          <li>🎉 Hacktoberfest 2022, 2023 Participant</li>
+          <li>🏆 Winner with AIR 4 in AI Arena 2.0 Hackathon of Mercer Mettl.</li>
+          <li>🥇 Winner with AIR 2 in 22nd Edition of Flipr Startup Hackathon.</li>
+          <li>🥈 Ranked 2nd in the Innovathon Contest of Techno Main Saltlake.</li>
+          <li>🥇 Winner of Software Edition in Smart India Hackathon in TMSL.</li>
+          <li>🥉 Got Top 16 Teams Rank in NIT Hackoverflow 7.0 Event of NIT DGP.</li>
+          <li>📄 Finalist in the Hack O NIT 24 Hackathon Event by NIT Agarpara.</li>
+          <li>💼 Attended Final Round of AI Unite Hackathon of Techno Billion.</li>
+          <li>🌐 Reached the Final Round of the Technviz Contest of BITS Pilani.</li>
+          <li>💻 Achieved Top 25 AIR in Semifinal Round of Ninjasprint Ideathon.</li>
+          <li>🌟 Shortlisted with AIR 45 in Code Haven 1.0 of IIIT Allahabad.</li>
+          <li>🚀 Winner with AIR 8 in CodeQuezt 7.0 Contest of First Naukri.</li>
+          <li>🌀 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
+          <li>🎉 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
         </ul>
       </td>
       <td valign="top">
