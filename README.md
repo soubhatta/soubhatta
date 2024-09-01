@@ -110,15 +110,15 @@
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py,js" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=" height=38></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
 		<td><strong>Developer Software Tools and Platforms</strong></td>
 	</tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,express,nodejs,fastapi,tensorflow&theme=dark" height=38></td> 
-		<td><img src = "https://skillicons.dev/icons?i=bash,cloudflare,gcp,github,appwrite,postman,replit,linux,git&theme=dark"  height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind,express,nodejs,fastapi,tensorflow,sklearn&theme=dark" height=38></td> 
+		<td><img src = "https://skillicons.dev/icons?i=cloudflare,git,github,postman,vscode,latex,netlify,vercel&theme=dark"  height=38></td>
 	</tr>
 	<tr>
 		<td><strong>Cloud Services and Databases Systems</strong></td>
@@ -126,14 +126,14 @@
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=aws,azure,postgres,mysql,mongodb" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=figma,ps&theme=dark" height=38></td>
 	</tr>
  		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
 		<td><strong>Hardware Components and Devices</strong></td>
 	</tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height=38></td>
 	</tr>
 	<tr>
 </table>
