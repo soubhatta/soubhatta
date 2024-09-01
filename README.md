@@ -110,7 +110,7 @@
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py,js" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
@@ -132,7 +132,7 @@
 		<td><strong>Hardware Components and Devices</strong></td>
 	</tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height=38></td>
 	</tr>
 	<tr>
