@@ -127,7 +127,7 @@
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
 	</tr>
  		<td><strong>Professional and Soft Skills</strong></td>
-		<td><strong>Hardware Components</strong></td>
+		<td><strong>Hardware Components and Devices</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
