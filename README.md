@@ -125,7 +125,7 @@
 		<td><strong>Designing and Editing(UI UX & Graphics)</strong></td>
 	</tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=postgres,mysql,mongodb" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=aws,azure,postgres,mysql,mongodb" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
 	</tr>
  		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
