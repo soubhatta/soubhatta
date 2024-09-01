@@ -111,7 +111,7 @@
 		<td><img src = "https://skillicons.dev/icons?i=figma,canva&theme=dark" height=38></td>
 	</tr>
 	<tr>
-		<td><strong>Frameworks and Libraries</strong></td>
+		<td><strong>Frameworks and Libraries(Front End + Back End + AIML</strong></td>
 		<td><strong>Developer Tools and Platforms</strong></td>
 	</tr>
 	<tr>
