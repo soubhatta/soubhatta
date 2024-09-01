@@ -84,12 +84,15 @@
 	        <li><a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a></li>
 	        <li><a href="https://coursera.org/share/5b163f9548534e6ec25a0a656748eb8c">AWS Fundamentals Specialization</a></li>
 	        <li><a href="https://coursera.org/share/58e568c6ab2b6194ab50e252ae2161b7">Google Data Analytics Professional Certificate</a></li>
-          <li><a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a></li>
+          	<li><a href="https://coursera.org/share/ec0f7730b3ee69e7171277ef8e062f53">IBM Machine Learning Specialization</a></li>
 	        <li><a href="https://coursera.org/share/f9df23083a7f403fb41dc77a35c93333">IBM AI Engineering Professional Certificate</a></li>
 	        <li><a href="https://coursera.org/share/08aea7d22112d805da1ac39cf3bf3d80">Generative AI)</a> (University of Colorado)</li>
-          <li><a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)</li>
+          	<li><a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)</li>
 	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Cybersecurity for Everyone</a> (University of Maryland)</li>
-          <li><a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)</li>
+          	<li><a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)</li>
+		<li><a href="https://coursera.org/share/62d10b6e22129d11468ff60a87c7d149">Prompt Engineering</a> (Vanderbilt University)</li>
+	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Cybersecurity for Everyone</a> (University of Maryland)</li>
+          	<li><a href="https://coursera.org/share/94f6698b13c98675aca7b7d0f703756f">Blockchain Specialization</a> (University at Buffalo)</li>
         </ul>
       </td>
     </tr>
@@ -144,8 +147,8 @@
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soubhatta&theme=radical&hide_border=false">
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8&hide_border=false">
-<img height="173em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&hide_border=true&card_width=320_private=false">
-<img height="173em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=true">
+<img height="174em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&hide_border=true&card_width=320_private=false">
+<img height="174em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=true">
 
 </div><br>
 
