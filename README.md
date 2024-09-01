@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Soumalya👋  </h1> 
 
----
 <h1 align="center"> About Me </h1>
 
 <table width="100%">
@@ -21,9 +20,6 @@
 </td>
 </tr>
 </table>
-
----
-
 
 
 <h1 align=center>💼 Personal Projects</h1>
