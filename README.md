@@ -9,7 +9,7 @@
 <ul>
 <li>👨‍💻 I am currently studying B.Tech in ECE at Techno Main Saltlake,Kolkata,West Bengal.</li>
 <li>📚 Every day I keep learning about different technologies.</li>
-<li>👯 Interested in Full Stack Web Development, Machine Learning and Artificial Intelligence.</li>
+<li>👯 Interested in Full Stack Web Development and Machine Learning.</li>
 <li>✨ Currently Learning Machine Learning and Python.</li>
 <li>🌱 Experimenting with Generative AI Technologies.</li>
 <li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
