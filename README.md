@@ -60,7 +60,7 @@
   <table>
     <tr>
       <td valign="top">
-        <h1 align=center>🏆 Achievements:</h1>
+        <h1 align=center>🏆 Achievements</h1>
         <ul>
           <li>🏆 Team Lead, Winning Team at SIH 2023</li>
           <li>🥇 National Winner at CodeRush 2023, HackBrewer 2023</li>
@@ -78,7 +78,7 @@
         </ul>
       </td>
       <td valign="top">
-        <h1 align=center>📄 Certificates:</h1>
+        <h1 align=center>📄 Certificates</h1>
         <ul>
           <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AritraGhosh-0972/CA51A0C89FF22698?sharingId">Microsoft Azure (AZ-900)</a></li>
 	        <li><a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a></li>
