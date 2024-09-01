@@ -125,8 +125,8 @@
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=wordpress,webflow,vscode,powershell,matlab,md,latex,codepen,arduino&theme=dark" height=38></td>
 	</tr>
-  <td><strong>Programming Languages</strong></td>
-		<td><strong>Coursework Subjects</strong></td>
+ 		<td><strong>Professional and Soft Skills</strong></td>
+		<td><strong>Hardware Components</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,django,bootstrap,fastapi,express,nodejs,vite" height=38></td>
