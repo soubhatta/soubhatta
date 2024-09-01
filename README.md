@@ -2,7 +2,9 @@
 
 <h1 align="center"> About Me </h1>
 
-<table width="120%">
+<div align="center">
+	
+<table width="100%">
 <tr>
 <td>
 <ul>
