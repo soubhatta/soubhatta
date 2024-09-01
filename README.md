@@ -1,4 +1,4 @@
-![GITHUB HEADER](https://github.com/user-attachments/assets/c425b1c6-eac3-4534-ad87-9af540cd1371)
+<h1 align="center"> Hi, I'm Soumalya👋  </h1> 
 
 ---
 <h1 align="center"> About Me </h1>
