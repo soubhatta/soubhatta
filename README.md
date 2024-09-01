@@ -36,7 +36,7 @@
 
 </div><be>
 
-<h1 align=center>⚙ Tech Stacks</h1>
+<h1 align=center>⚙ Expertise Skills</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@
   <table>
     <tr>
       <td valign="top">
-        <h3>🏆 Achievements:</h3>
+        <h3 align=center>🏆 Achievements:</h3>
         <ul>
           <li>🏆 Team Lead, Winning Team at SIH 2023</li>
           <li>🥇 National Winner at CodeRush 2023, HackBrewer 2023</li>
@@ -78,7 +78,7 @@
         </ul>
       </td>
       <td valign="top">
-        <h3>📄 Certificates:</h3>
+        <h3 align=center>📄 Certificates:</h3>
         <ul>
           <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AritraGhosh-0972/CA51A0C89FF22698?sharingId">Microsoft Azure (AZ-900)</a></li>
 	        <li><a href="https://coursera.org/share/8e260da80376dd4ac464ed5434886e30">Microsoft Azure Specialization</a></li>
@@ -100,7 +100,7 @@
 
 <hr>
 
-<h3>Tech Stack:</h3>
+<h3 align=center>💻 Tech Stacks</h3>
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
