@@ -6,7 +6,7 @@
 <tr>
 <td>
 <ul>
-<li>👨‍💻 I am currently studying B.Tech in ECE at Techno Main Saltlake,Kolkata,West Bengal.</li>
+<li>👨‍💻 I am currently studying B.Tech in ECE at Techno Main Saltlake,Kolkata.</li>
 <li>📚 Every day I keep learning about different technologies.</li>
 <li>👯 Interested in Full Stack Web Development and Machine Learning.</li>
 <li>✨ Currently Learning Machine Learning and Python.</li>
@@ -66,7 +66,7 @@
           <li>🥇 Winner with AIR 2 in 22nd Edition of Flipr Startup Hackathon.</li>
           <li>🥈 Ranked 2nd in the Innovathon Contest of Techno Main Saltlake.</li>
           <li>🥇 Winner of Software Edition in Smart India Hackathon in TMSL.</li>
-          <li>🥉 Got Top 16 Teams Rank in NIT Hackoverflow 7.0 Event of NIT DGP.</li>
+          <li>🥉 Got Top 16 Teams Rank in Hackoverflow 7.0 Event of NIT DGP.</li>
           <li>📄 Finalist in the Hack O NIT 24 Hackathon Event by NIT Agarpara.</li>
           <li>💼 Attended Final Round of AI Unite Hackathon of Techno Billion.</li>
           <li>🌐 Reached the Final Round of the Technviz Contest of BITS Pilani.</li>
