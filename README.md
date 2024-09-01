@@ -99,7 +99,6 @@
 
 
 <hr>
-
 <h1 align=center>💻 Tech Stacks</h1>
 <table>
 	<tr>
