@@ -128,8 +128,8 @@
 		<td><img src = "https://skillicons.dev/icons?i=aws,azure,postgres,mysql,mongodb" height=38></td>
 		<td><img src = "https://skillicons.dev/icons?i=figma,ps&theme=dark" height=38></td>
 	</tr>
- 		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
-		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
+ 		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
+		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
 	</tr>
 	<tr>
     	<td>
