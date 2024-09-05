@@ -132,8 +132,18 @@
 		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
 	</tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
+    	<td>
+        <ul>
+            <li>First text sentence here.</li>
+            <li>Second text sentence here.</li>
+        </ul>
+    	</td>
+   	 <td>
+        <ul>
+            <li>First text sentence here.</li>
+            <li>Second text sentence here.</li>
+        </ul>
+   	 </td>
 	</tr>
 	<tr>
 </table>
