@@ -134,14 +134,14 @@
 	<tr>
     	<td>
         <ul>
-            <li>Data Structures & Algorithms, Database Management System.</li>
-            <li>Computer Networking, Object Oriented Programming Concepts.</li>
+            <li>Data Structures & Algorithms, Database Management System</li>
+            <li>Computer Networking, Object Oriented Programming Concepts</li>
         </ul>
     	</td>
    	 <td>
         <ul>
-            <li>Teamwork,Leadership,Problem Solving,Communication.</li>
-            <li>Second text sentence here.</li>
+            <li>Teamwork, Leadership, Problem Solving</li>
+            <li>Communication, Presentation, Management</li>
         </ul>
    	 </td>
 	</tr>
