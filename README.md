@@ -106,11 +106,11 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages & Technologies</strong></td>
-		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
+		<td><strong>Hardware Components and Devices</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=c,cpp,java,py,js" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height=38></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries(Front End + Back End + AIML)</strong></td>
@@ -129,11 +129,11 @@
 		<td><img src = "https://skillicons.dev/icons?i=figma,ps&theme=dark" height=38></td>
 	</tr>
  		<td><strong>Professional and Interpersonal Soft Skills</strong></td>
-		<td><strong>Hardware Components and Devices</strong></td>
+		<td><strong>Coursework Subjects(CS Fundamentals)</strong></td>
 	</tr>
 	<tr>
 		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
-		<td><img src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=py" height=38></td>
 	</tr>
 	<tr>
 </table>
