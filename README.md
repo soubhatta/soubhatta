@@ -134,13 +134,13 @@
 	<tr>
     	<td>
         <ul>
-            <li>First text sentence here.</li>
-            <li>Second text sentence here.</li>
+            <li>Data Structures and Algorithms,Operating System.</li>
+            <li>Computer Networking,Object Oriented Programming.</li>
         </ul>
     	</td>
    	 <td>
         <ul>
-            <li>First text sentence here.</li>
+            <li>Teamwork,Leadership,Problem Solving,Communication.</li>
             <li>Second text sentence here.</li>
         </ul>
    	 </td>
