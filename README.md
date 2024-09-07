@@ -52,6 +52,9 @@
 <a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
 <a href="https://teams.microsoft.com/l/chat/0/0?users=soumalyabhatta19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
+<a href="https://pinterest.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="https://reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+
 
 
 
