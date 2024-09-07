@@ -53,7 +53,7 @@
 
 
 
-<h1 align=center>💼 Personal Projects</h1>
+<h1 align=center>📚 Personal Projects</h1>
 
 <div align="center">
   
