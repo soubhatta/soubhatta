@@ -48,7 +48,6 @@
 <a href="https://www.reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://www.behance.net/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://teams.microsoft.com/l/chat/0/0?users=your-email@domain.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
 
 
 </p>
