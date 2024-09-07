@@ -40,16 +40,16 @@
 <a href="https://www.youtube.com/@soucharya19" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://medium.com/@soucharya19" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://hashnode.com/@soucharya19" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://codolio.com/profile/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Codolio-CC7722?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://www.credly.com/users/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
 <a href="https://github.com/soucharya19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://linktr.ee/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/soucharya19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Spotify -->
+<a href="https://www.linkedin.com/in/soucharya19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31dzdzydc6xlj7mywavel64ruxue?si=cb9626d8c35b4926" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
-<a href="https://www.behance.net/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://www.credly.com/users/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
 <a href="https://app.daily.dev/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
 <a href="https://dev.to/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://www.behance.net/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://codolio.com/profile/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Codolio-CC7722?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 
 
 
