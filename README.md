@@ -24,6 +24,7 @@
 </table>
 
 <h1 align="center"> Contact & Socialize with Me </h1>
+<div style="border: 2px solid white; padding: 20px; display: inline-block;">
 <p align="center">  
 
 <a href="mailto:soumalyabhatta19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -57,7 +58,7 @@
 
 
 </p>
-
+</div>
 
 <!--
 <a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
