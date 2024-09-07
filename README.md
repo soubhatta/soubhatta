@@ -181,7 +181,7 @@
 
 |                        Role                       |                                          Organisation                                                 |    Time Duration    |    Type    |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------- |
-|             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Part Time  |
+|             Software Development Intern           | [Bluestock Fintech](https://www.linkedin.com/company/bluestock-fintech/)                              | Aug 2024 - Oct 2024 | Completion Certificate  |
 |               Java Technology Intern              | [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/)                          | Mar 2024 - Jun 2024 | Part Time  |
 |            MERN Stack Developer Intern            | [Physicswallah Pvt Ltd](https://www.linkedin.com/company/physicswallah/)                              | Feb 2024 - Apr 2024 | Internship |
 |  Cloud & Data Analytics Virtual Launchpad Program | [PricewaterhouseCoopers](https://www.linkedin.com/company/pwc/)                                       | Apr 2023 - Sep 2023 | Internship |
