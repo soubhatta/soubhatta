@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Soumalya👋  </h1> 
 
-<h1 align="center"> About Me </h1>
+<h1 align="center"> All About Myself </h1>
 
 <div align="center">
 	
@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-<h1 align="center"> Contact Me </h1>
+<h1 align="center"> Contact & Socialize with Me </h1>
 <p align="center">  
 	
 <a href="mailto:soumalyabhatta19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
