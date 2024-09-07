@@ -215,9 +215,6 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=onedark&no-bg=true&no-frame=true&column=-1")](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <h1 align=center>📒 Professional Experiences</h1>
 
