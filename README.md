@@ -44,7 +44,7 @@
 <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Spotify -->
 <a href="https://open.spotify.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://codolio.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codolio-333333?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://codolio.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codolio-333333?style=for-the-badge&logo=code&logoColor=yellow"></a>
 <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://www.behance.net/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 
