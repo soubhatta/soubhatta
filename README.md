@@ -161,7 +161,8 @@
 <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soubhatta&theme=radical&utcOffset=8&hide_border=false">
 <img height="176em" src="https://github-readme-stats.vercel.app/api?username=soubhatta&show_icons=true&rank_icon=github&theme=radical&hide_border=true&card_width=320_private=false">
 <img height="176em" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhatta&theme=radical&hide_border=true">
-
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </div><br>
 
 <h1 align=center>🏆Github Trophies</h1>
