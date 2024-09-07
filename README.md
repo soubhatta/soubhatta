@@ -48,6 +48,7 @@
 <a href="https://www.reddit.com/user/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://www.behance.net/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<!--
 <a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.codingninjas.com/codestudio/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeStudio-2C3E50?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
@@ -55,7 +56,7 @@
 <a href="https://codeforces.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://www.codechef.com/users/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
 <a href="https://www.hackerrank.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-
+-->
 
 </p>
 
