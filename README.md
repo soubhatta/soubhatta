@@ -40,7 +40,7 @@
 <a href="https://www.youtube.com/c/soucharya19" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://medium.com/@soucharya19" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://hashnode.com/@soucharya19" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://codolio.com/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Codolio-CC7722?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://codolio.com/profile/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Codolio-CC7722?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://github.com/soucharya19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://linktr.ee/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/soucharya19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><!-- Spotify -->
