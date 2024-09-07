@@ -140,7 +140,7 @@
     	</td>
    	 <td>
         <ul>
-            <li>Teamwork, Leadership, Problem Solving</li>
+            <li>Teamwork, Leadership and Problem Solving</li>
             <li>Communication, Presentation, Management</li>
         </ul>
    	 </td>
