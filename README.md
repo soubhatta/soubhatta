@@ -48,8 +48,8 @@
 <a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://www.behance.net/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://www.credly.com/users/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-<a href="https://app.daily.dev/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-1A1A1A?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
-<a href="https://dev.to/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Dev.to-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://app.daily.dev/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
+<a href="https://dev.to/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 
 
