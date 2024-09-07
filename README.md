@@ -134,7 +134,7 @@
 	<tr>
     	<td>
         <ul>
-            <li>Data Structures & Algorithms, Database Management System</li>
+            <li>Data Structures & Algorithms & Database Management System</li>
             <li>Computer Networking, Object Oriented Programming Concepts</li>
         </ul>
     	</td>
