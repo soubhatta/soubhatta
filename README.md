@@ -122,8 +122,8 @@
           <li>💼 Attended Final Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Unite Hackathon</a> of Techno Billion.</li>
           <li>🌐 Reached the Final Round of the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Technviz Contest</a> of BITS Pilani.</li>
           <li>💻 Achieved Top 25 AIR in Semifinal Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ninjasprint Ideathon</a>.</li>
-          <li>🌟 Shortlisted with AIR 45 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
-          <li>🚀 Winner with AIR 8 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
+          <li>🌟 Shortlisted with AIR 45 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
+          <li>🚀 Winner with AIR 8 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
           <li>🌀 Ranked 8th in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack Genesis 24</a> Hackathon of Christ University.</li>
           <li>🎉 Participated and stood 8th in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ureckathon 4.0</a> Event of UEM.</li>
         </ul>
