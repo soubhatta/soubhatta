@@ -248,16 +248,16 @@
 
 |              Role                |                                          Organisation                                                 |    Time Duration    |          Type          |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------  | ------------------- | ---------------------- |  
-|   Generative AI Virtual Intern   | [Google India - Smart Internz](https://www.linkedin.com/company/smartinternz/)                        | Aug 2024 - Sep 2024 | Completion Certificate |
-|  Embedded System Virtual Intern  | [Microchip - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)             | Jul 2024 - Sep 2024 | Completion Certificate |
-|    Front End Developer Intern    | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Jun 2024 - Jul 2024 | Completion Certificate |
-|       AI-ML Developer Intern     | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Jun 2024 - Jul 2024 | Completion Certificate |
-|       AI-ML Virtual Intern       | [Google - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                | Apr 2024 - Jun 2024 | Completion Certificate |
-|        Data Analyst Intern       | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                      | Feb 2024 - Apr 2024 | Completion Certificate |
-|        Data Analyst Intern       | [Vodafone Idea Foundation](https://www.linkedin.com/company/vodafone-idea-foundation/)                | Feb 2024 - Mar 2024 | Completion Certificate |
-|  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | May 2023 - Jul 2023 | Completion Certificate |
-|     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Oct 2023 - Nov 2023 | Completion Certificate |
-|       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Sep 2023 - Oct 2023 | Completion Certificate |
+|   Generative AI Virtual Intern   | [Google India - Smart Internz](https://www.linkedin.com/company/smartinternz/)                        | Aug 2024 - Sep 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|  Embedded System Virtual Intern  | [Microchip - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)             | Jul 2024 - Sep 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|    Front End Developer Intern    | [IBM Skillsbuild - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)             | Jun 2024 - Jul 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|       AI-ML Developer Intern     | [IBM Skillsbuild - CSRBOX](https://www.linkedin.com/company/csrbox/)                                  | Jun 2024 - Jul 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|       AI-ML Virtual Intern       | [Google - Eduskills Foundation](https://www.linkedin.com/company/eduskillsfoundation/)                | Apr 2024 - Jun 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|        Data Analyst Intern       | [EY GDS - Edunet Foundation](https://www.linkedin.com/company/edunetfoundation/)                      | Feb 2024 - Apr 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|        Data Analyst Intern       | [Vodafone Idea Foundation](https://www.linkedin.com/company/vodafone-idea-foundation/)                | Feb 2024 - Mar 2024 | [Completion Certificate](https://xyz.vercel.app/) |
+|  Artificial Intelligence Intern  | [One Oath Foundation](https://www.linkedin.com/showcase/oneoathfoundation/)                           | May 2023 - Jul 2023 | [Completion Certificate](https://xyz.vercel.app/) |
+|     Machine Learning Intern      | [Suvidha Foundation](https://www.linkedin.com/company/suvidha-foundation/)                            | Oct 2023 - Nov 2023 | [Completion Certificate](https://xyz.vercel.app/) |
+|       Web Development Intern     | [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)                      | Sep 2023 - Oct 2023 | [Completion Certificate](https://xyz.vercel.app/) |
 
 </div>
 
