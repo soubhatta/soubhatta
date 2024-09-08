@@ -55,12 +55,6 @@
 <a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
 <a href="https://reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://taplink.cc/yourprofile" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; padding: 8px 16px; background-color: #04C4D9; border-radius: 12px; font-family: Arial, sans-serif; color: white; font-size: 14px;">
-        <img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white" style="vertical-align: middle; margin-right: 8px;">
-        Taplink
-    </div>
-</a>
 
 
 </p>
