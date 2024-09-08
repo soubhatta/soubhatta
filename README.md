@@ -124,8 +124,8 @@
           <li>💻 Achieved Top 25 AIR in Semifinal Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ninjasprint Ideathon</a>.</li>
           <li>🌟 Shortlisted with AIR 45 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
           <li>🚀 Winner with AIR 8 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
-          <li>🌀 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
-          <li>🎉 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
+          <li>🌀 Ranked 8th in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack Genesis 24</a> Hackathon of Christ University.</li>
+          <li>🎉 Participated and stood 8th in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ureckathon 4.0</a> Event of UEM.</li>
         </ul>
       </td>
       <td valign="top">
