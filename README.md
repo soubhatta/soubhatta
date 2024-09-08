@@ -114,16 +114,16 @@
         <h1 align=center>🏆 Achievements</h1>
         <ul>
           <li>🏆 Winner with AIR 4 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Arena 2.0</a> Hackathon of Mercer Mettl.</li>
-          <li>🥇 Winner with AIR 2 in 22nd Edition of Flipr Startup Hackathon.</li>
-          <li>🥈 Ranked 2nd in the Innovathon Contest of Techno Main Saltlake.</li>
-          <li>🥇 Winner of Software Edition in Smart India Hackathon in TMSL.</li>
-          <li>🥉 Got Top 16 Teams Rank in Hackoverflow 7.0 Event of NIT DGP.</li>
-          <li>📄 Finalist in the Hack O NIT 24 Hackathon Event by NIT Agarpara.</li>
-          <li>💼 Attended Final Round of AI Unite Hackathon of Techno Billion.</li>
-          <li>🌐 Reached the Final Round of the Technviz Contest of BITS Pilani.</li>
-          <li>💻 Achieved Top 25 AIR in Semifinal Round of Ninjasprint Ideathon.</li>
-          <li>🌟 Shortlisted with AIR 45 in Code Haven 1.0 of IIIT Allahabad.</li>
-          <li>🚀 Winner with AIR 8 in CodeQuezt 7.0 Contest of First Naukri.</li>
+          <li>🥇 Winner with AIR 2 in 22nd Edition of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Flipr Startup</a> Hackathon.</li>
+          <li>🥈 Ranked 2nd in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Innovathon Contest</a> of Techno Main Saltlake.</li>
+          <li>🥇 Winner of Software Edition in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Smart India Hackathon</a> in TMSL.</li>
+          <li>🥉 Got Top 16 Teams Rank in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hackoverflow 7.0</a> Event of NIT DGP.</li>
+          <li>📄 Finalist in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack O NIT 24</a> Hackathon Event by NIT Agarpara.</li>
+          <li>💼 Attended Final Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Unite Hackathon</a> of Techno Billion.</li>
+          <li>🌐 Reached the Final Round of the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Technviz Contest</a> of BITS Pilani.</li>
+          <li>💻 Achieved Top 25 AIR in Semifinal Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ninjasprint Ideathon</a>.</li>
+          <li>🌟 Shortlisted with AIR 45 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
+          <li>🚀 Winner with AIR 8 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
           <li>🌀 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
           <li>🎉 Machine Learning Intern at CareEdge Risk Solutions Pvt. Ltd.</li>
         </ul>
