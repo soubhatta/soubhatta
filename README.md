@@ -99,11 +99,11 @@
 
 <div align="center">
 
-|                Institute               | University |   Degree   | Specialization |     Grade    |      Distinction      |
-|----------------------------------------|------------|------------|----------------|--------------|-----------------------|
-| Techno Main Saltlake, Kolkata(College) |   MAKAUT   |    BTech   |   ECE Branch   |  CGPA = 9.03 | 12th Rank in ECE Dept |
-| The Scottish Church Collegiate School  |   WBCHSE   | 12th Board | Science Stream | % age = 92.4 | 1st(Topper) in School |
-| The Scottish Church Collegiate School  |   WBBSE    | 10th Board | Science Stream | % age = 93.3 | 1st(Topper) in School |
+|                                  Institute                             | University |   Degree   | Specialization |     Grade    |      Distinction      |
+|------------------------------------------------------------------------|------------|------------|----------------|--------------|-----------------------|
+| [Techno Main Saltlake, Kolkata(College)](https://www.ticollege.ac.in/) | [MAKAUT](https://makautwb.ac.in/) |    BTech   |   ECE Branch   |  CGPA = 9.03 | 12th Rank in ECE Dept |
+| [The Scottish Church Collegiate School](https://www.sccskolkata.in/)  | [WBCHSE](https://wbchse.wb.gov.in/) | 12th Board | Science Stream | % age = 92.4 | 1st(Topper) in School |
+| [The Scottish Church Collegiate School](https://www.sccskolkata.in/)  | [WBBSE](https://wbbse.wb.gov.in/)  | 10th Board | Science Stream | % age = 93.3 | 1st(Topper) in School |
 
 </div>
 
