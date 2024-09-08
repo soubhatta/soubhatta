@@ -56,10 +56,6 @@
 <a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
 <a href="https://reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
-<a href="https://taplink.cc/yourtaplink" target="_blank"><img src="https://img.shields.io/badge/Taplink-000000?style=for-the-badge&logo=taplink&logoColor=white"></a>
-<a href="https://codolio.com/yourcodolio" target="_blank"><img src="https://img.shields.io/badge/Codolio-2ECC71?style=for-the-badge&logo=codolio&logoColor=white"></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-
 
 </p>
 
