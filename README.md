@@ -113,7 +113,7 @@
       <td valign="top">
         <h1 align=center>🏆 Achievements</h1>
         <ul>
-          <li>🏆 Winner with AIR 4 in AI Arena 2.0 Hackathon of Mercer Mettl.</li>
+          <li>🏆 Winner with AIR 4 in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Arena 2.0</a> Hackathon of Mercer Mettl.</li>
           <li>🥇 Winner with AIR 2 in 22nd Edition of Flipr Startup Hackathon.</li>
           <li>🥈 Ranked 2nd in the Innovathon Contest of Techno Main Saltlake.</li>
           <li>🥇 Winner of Software Edition in Smart India Hackathon in TMSL.</li>
