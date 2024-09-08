@@ -58,9 +58,26 @@
 
 
 
-<a href="https://taplink.cc/your_username"><img src="https://img.shields.io/badge/Taplink-000?style=for-the-badge&logo=taplink&logoColor=white" alt="Taplink"></a>
-<a href="https://codolio.io/your_username"><img src="https://img.shields.io/badge/Codolio-000?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
+<!-- Taplink Section -->
+<h2>Taplink</h2>
+<p>A brief description of Taplink and its purpose.</p>
+<ul>
+  <li><a href="[Taplink URL]">View Taplink</a></li>
+</ul>
+
+<!-- Codolio Section -->
+<h2>Codolio</h2>
+<p>A brief description of Codolio and its purpose.</p>
+<ul>
+  <li><a href="[Codolio URL]">View Codolio</a></li>
+</ul>
+
+<!-- Personal Portfolio Section -->
+<h2>Personal Portfolio</h2>
+<p>A brief description of my personal portfolio and its contents.</p>
+<ul>
+  <li><a href="[Portfolio URL]">View Portfolio</a></li>
+</ul>
 
 </p>
 
