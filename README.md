@@ -45,18 +45,15 @@
 <a href="https://github.com/soucharya19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://linktr.ee/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/soucharya19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31dzdzydc6xlj7mywavel64ruxue?si=cb9626d8c35b4926" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://app.daily.dev/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
 <a href="https://www.behance.net/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://app.daily.dev/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-8A2BE2?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31dzdzydc6xlj7mywavel64ruxue?si=cb9626d8c35b4926" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://teams.microsoft.com/l/chat/0/0?users=soumalyabhatta19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
 <a href="https://dribbble.com/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 <a href="https://dev.to/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://codolio.com/profile/soucharya19" target="_blank"><img src="https://img.shields.io/badge/Codolio-CC7722?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://soumalyaportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://taplink.cc/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Taplink-41E5C1?style=for-the-badge&logo=link&logoColor=white"></a>
-<a href="https://reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-
-
 <a href="https://www.kaggle.com/soumalya19" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 
 
