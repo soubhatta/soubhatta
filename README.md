@@ -70,9 +70,9 @@
 <a href="https://www.hackerrank.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 -->
 
-
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-bg=true&no-frame=true&column=-1")]
-
+-->
 
 <h1 align=center>📚 Personal Projects</h1>
 
