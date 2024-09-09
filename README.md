@@ -71,7 +71,7 @@
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thecleveridiott&theme=onedark&no-bg=true&no-frame=true&column=-1")]
+[![trophy](https://github-profile-trophy.vercel.app/?username=soubhatta&theme=radical&no-bg=true&no-frame=true&column=-1")]
 
 
 <h1 align=center>📚 Personal Projects</h1>
