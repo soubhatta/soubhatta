@@ -57,6 +57,17 @@
 <a href="https://www.kaggle.com/soumalya19" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 
 
+<a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.codingninjas.com/codestudio/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeStudio-2C3E50?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://auth.geeksforgeeks.org/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="https://www.interviewbit.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/InterviewBit-323754?style=for-the-badge&logo=code&logoColor=white"></a>
+<a href="https://codeforces.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://www.codechef.com/users/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="https://www.hackerrank.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://www.topcoder.com/members/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Topcoder-29A6FF?style=for-the-badge&logo=topcoder&logoColor=white"></a>
+<a href="https://www.hackerearth.com/@yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"></a>
+
+
 </p>
 
 <!--
