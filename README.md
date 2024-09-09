@@ -123,7 +123,7 @@
           <li>🥉 Got Top 16 Teams Rank in <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hackoverflow 7.0</a> Event of NIT DGP.</li>
           <li>📄 Finalist in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Hack O NIT 24</a> Hackathon Event by NIT Agarpara.</li>
           <li>💼 Attended Final Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">AI Unite Hackathon</a> of Techno Billion.</li>
-          <li>🌐 Reached the Final Round of the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Technviz Contest</a> of BITS Pilani.</li>
+          <li>🌐 Reached the Final Round of the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Techviz Contest</a> of BITS Pilani.</li>
           <li>💻 Achieved Top 25 AIR in Semifinal Round of <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Ninjasprint Ideathon</a>.</li>
           <li>🌟 Shortlisted with AIR 45 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">Code Haven 1.0</a> of IIIT Allahabad.</li>
           <li>🚀 Winner with AIR 8 in the <a href="https://www.mettl.com/ai-arena-2.0-hackathon">CodeQuezt 7.0</a> Contest of First Naukri.</li>
@@ -134,19 +134,19 @@
       <td valign="top">
         <h1 align=center>📄 Certificates</h1>
         <ul>
-         	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Github</a> Foundations Professional Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Microsoft</a> Azure AI900 Fundamentals Certificate</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys</a> Java Language Foundation Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Coursera</a> Introduction to Front End Development</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">IBM</a> Data Analysis using Python Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Postman</a> API Fundamentals Student Expert Course</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Freecodecamp</a> Machine Learning using Python</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank</a> Javascript Basic Skills Certification</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Linkedin</a> Learning MERN Essential Training Course</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Infosys</a> Artificial Intelligence Primer Certification</li>
-		<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Matlab</a> Object Oriented Programming Onramp</li>
-	        <li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Hackerank</a> Software Engineer Skills Certification</li>
-          	<li><a href="https://coursera.org/share/f529809d8cf5e207b4b4db4838c146c6">Udemy</a> Complete Data Structures Course in Java</li>
+         	<li><a href="https://xyz.vercel.app/">Github</a> Foundations Professional Certification</li>
+	        <li><a href="https://xyz.vercel.app/">Microsoft</a> Azure AI900 Fundamentals Certificate</li>
+	        <li><a href="https://xyz.vercel.app/">Infosys</a> Java Language Foundation Certification</li>
+	        <li><a href="https://xyz.vercel.app/">Coursera</a> Introduction to Front End Development</li>
+          	<li><a href="https://xyz.vercel.app/">IBM</a> Data Analysis using Python Certification</li>
+	        <li><a href="https://xyz.vercel.app/">Postman</a> API Fundamentals Student Expert Course</li>
+	        <li><a href="https://xyz.vercel.app/">Freecodecamp</a> Machine Learning using Python</li>
+          	<li><a href="https://xyz.vercel.app/">Hackerank</a> Javascript Basic Skills Certification</li>
+	        <li><a href="https://xyz.vercel.app/">Linkedin</a> Learning MERN Essential Training Course</li>
+          	<li><a href="https://xyz.vercel.app/">Infosys</a> Artificial Intelligence Primer Certification</li>
+		<li><a href="https://xyz.vercel.app/">Matlab</a> Object Oriented Programming Onramp</li>
+	        <li><a href="https://xyz.vercel.app/">Hackerank</a> Software Engineer Skills Certification</li>
+          	<li><a href="https://xyz.vercel.app/">Udemy</a> Complete Data Structures Course in Java</li>
         </ul>
       </td>
     </tr>
