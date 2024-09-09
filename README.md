@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Soumalya👋  </h1> 
 
-<h1 align="center"> All About Myself </h1>
+<h1 align="center">💫 All About Myself </h1>
 
 <div align="center">
 	
@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-<h1 align="center"> Contact & Socialize with Me </h1>
+<h1 align="center">🌐 Contact & Socialize with Me </h1>
 
 <p align="center">  
 
@@ -98,7 +98,7 @@
   </a>
 </p>
 
-<h1 align=center>💼 Education</h1>
+<h1 align=center>🎓 Education</h1>
 
 <div align="center">
 
@@ -241,7 +241,7 @@
 </p>
 
 
-<h1 align=center>📒 Professional Experiences</h1>
+<h1 align=center>💼 Professional Experiences</h1>
 
 <div align=center>
 
