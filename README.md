@@ -81,7 +81,7 @@
 |             Project Name               |                                              Description                                                     |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | [Remisense](https://xyz.vercel.app/)   | Multiple Disease AI Based Prognosis Webapp with Personalized Telecare Support & Medical Assistance Platform  |
-| [Skillovator](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
+| [Skillovance](https://xyz.vercel.app/) | Ultimate Website providing all College Study and Placement Resources for Undergraduates & Tech Professionals |
 | [Solefolio](https://xyz.vercel.app/)   | A Completely Responsive Personal Portfolio Showcasing all of my Personal Career Credentials and Developments | 
 | [NovaNeet](https://xyz.vercel.app/)    | Total Resource Materials and Guidance Hub for the Best Preparation Strategies of Upcoming NEET UG Aspirants  |
 | [JanDukaan](https://xyz.vercel.app/)   | Easy & User friendly Webapp for Pricing & Features Comparison of the Commodities among all E-Commerce Sites  |
