@@ -57,6 +57,9 @@
 <a href="https://reddit.com/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 
+<a href="https://www.kaggle.com/soumalya19" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+
+
 </p>
 
 <!--
