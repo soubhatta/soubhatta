@@ -236,7 +236,7 @@
 ![ ](https://komarev.com/ghpvc/?username=soubhatta&color=blue)
 </a>
 <a href="https://github.com/soubhatta?tab=followers"><img src="https://img.shields.io/github/followers/soubhatta?label=Followers&style=social" alt="GitHub Badge"></a>
-<img src="https://img.shields.io/github/stars/devayanm?label=Stars" alt="GitHub stars" />
+<img src="https://img.shields.io/github/stars/soubhatta?label=Stars" alt="GitHub stars" />
 <a href ="https://metrics.lecoq.io/insights/soubhatta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
 
 </p>
